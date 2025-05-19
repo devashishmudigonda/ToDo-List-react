@@ -6,8 +6,7 @@ A beautiful and responsive To-Do List application built using **React**. Easily 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to use the app](https://your-vercel-app.vercel.app/)  
-*(Replace with your actual Vercel deployment URL)*
+🔗 [Click here to use the app]([https://your-vercel-app.vercel.app/](https://to-do-list-react-eoavs5v1c-devashish-mudigondas-projects.vercel.app/))  
 
 ---
 
