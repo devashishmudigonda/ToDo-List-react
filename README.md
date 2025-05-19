@@ -12,12 +12,12 @@ A beautiful and responsive To-Do List application built using **React**. Easily 
 
 ## 📸 Screenshots
 
-You can add screenshots in a `/screenshots` folder and display them like this:
-
-```markdown
-<img src="./screenshots/light-mode.png" width="300" alt="Light Mode" />
-<img src="./screenshots/dark-mode.png" width="300" alt="Dark Mode" />
-```
+| Feature                       | Screenshot |
+|------------------------------|------------|
+| ✅ Add Tasks                 | ![Add Tasks](./screenshots/add-tasks.png) |
+| 🌙 Dark Mode                | ![Dark Mode](./screenshots/dark-mode.png) |
+| ☀️ Light Mode               | ![Light Mode](./screenshots/light-mode.png) |
+| 🗑️ Remove Completed Tasks   | ![Remove Complete](./screenshots/remove-complete.png) |
 
 ---
 
